@@ -1,6 +1,6 @@
 # My first project
 
-This is my first everproject written in Python.
+Hello! This is my first project written in Python.
 
 It contains:
 
